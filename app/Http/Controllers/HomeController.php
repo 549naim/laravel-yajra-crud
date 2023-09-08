@@ -103,14 +103,6 @@ class HomeController extends Controller
         ]);
     }
 
-       // public function deleteCategory( Request $request ){
-    //     $id=$request->category_id;
-    //     $data=Category::find($id);
-    //     $data->delete();
-    //     return response()->json([
-    //      'status' => 'success',
-    //     ]);
-
-    //  }
+   
 
 }
